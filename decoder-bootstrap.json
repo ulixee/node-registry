@@ -3,7 +3,7 @@
     "/ip4/138.197.56.240/tcp/3018/ipfs/QmaCpDMGvV2BGHeYERUEnRQAwe3N8SzbUtfsmvsqQLuvuJ"
   ],
   "stakeHost": "https://stake.greased-argons.com",
-  "clientMiners": [
+  "publicNodes": [
     "64.128.3000:8000"
   ],
   "escrowHost": "https://escrow.greased-argons.com",
