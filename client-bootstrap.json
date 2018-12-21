@@ -1,0 +1,7 @@
+{
+  "clientMiners": [
+    "64.128.3000:8000"
+  ],
+  "escrowHost": "https://escrow.greased-argons.com",
+  "ledgerHost": "https://ledger.greased-argons.com"
+}
