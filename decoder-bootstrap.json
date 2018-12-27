@@ -2,10 +2,10 @@
   "bootstrapPeers": [
     "/ip4/206.189.198.103/tcp/3018/ipfs/ca5gmkcvXRDJcC6jpUi4JUVnRdHtrxhDU3idUSm3AVXQ6Z"
   ],
-  "stakeHost": "https://stake.greased-argons.com",
+  "stakeHost": "https://stake.greased-argon.com",
   "publicNodes": [
     "206.189.198.103:5018"
   ],
-  "escrowHost": "https://escrow.greased-argons.com",
-  "ledgerHost": "https://ledger.greased-argons.com"
+  "escrowHost": "https://escrow.greased-argon.com",
+  "ledgerHost": "https://ledger.greased-argon.com"
 }
