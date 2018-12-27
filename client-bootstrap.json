@@ -1,7 +1,7 @@
 {
   "publicNodes": [
-    "64.128.3000:8000"
+    "206.189.198.103:5018"
   ],
-  "escrowHost": "https://escrow.greased-argons.com",
-  "ledgerHost": "https://ledger.greased-argons.com"
+  "escrowHost": "https://escrow.greased-argon.com",
+  "ledgerHost": "https://ledger.greased-argon.com"
 }
