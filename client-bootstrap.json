@@ -1,7 +1,6 @@
 {
   "publicNodes": [
-    "138.197.48.109:5000"
+    "45.55.105.129:5000"
   ],
-  "escrowHost": "https://escrow.greased-argon.com",
-  "ledgerHost": "https://ledger.greased-argon.com"
+  "sidechainUrl": "https://greased-argon.com"
 }
