@@ -2,5 +2,6 @@
   "publicNodes": [
     "45.55.105.129:5000"
   ],
-  "sidechainUrl": "https://greased-argon.com"
+  "sidechainUrl": "https://greased-argon.com",
+  "domainRegistryUrl": "https://registry.ulixee.org"
 }
