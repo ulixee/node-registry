@@ -1,8 +1,7 @@
 {
-  "stakeHost": "https://stake.greased-argon.com",
+  "sidechainUrl": "https://greased-argon.com",
   "publicNodes": [
     "138.197.48.109:5000"
   ],
-  "escrowHost": "https://escrow.greased-argon.com",
-  "ledgerHost": "https://ledger.greased-argon.com"
+  "domainRegistryUrl": "https://registry.ulixee.org"
 }
