@@ -1,0 +1,7 @@
+{
+  "publicNodes": [
+    "127.0.0.1:5000"
+  ],
+  "sidechainUrl": "http://localhost:2500",
+  "domainRegistryUrl": "http://localhost:9998"
+}
